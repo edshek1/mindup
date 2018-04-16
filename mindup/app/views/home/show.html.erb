@@ -1,4 +1,8 @@
-<h1>This is the homepage</h1>
+
+<h1>MindUp Login</h1>
+<head>
+	<%= stylesheet_link_tag    'home', media: 'all', 'data-turbolinks-track': 'reload'%>
+</head>
 <u1>
 	<% if !user_signed_in? %>
 		<li><%= link_to "Sign up", new_user_registration_path %></li>
