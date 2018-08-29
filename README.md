@@ -1,4 +1,6 @@
 # README
+### TO-DO:
+- Fix the overall directory structure (why are there two `mindup` folders?)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
